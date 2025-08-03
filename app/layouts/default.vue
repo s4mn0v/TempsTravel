@@ -6,5 +6,5 @@
 </template>
 
 <script setup lang="ts">
-import TopMenu from '@/components/navigation/top-menu.vue';
+import TopMenu from '~/components/navigation/TopMenu.vue';
 </script>

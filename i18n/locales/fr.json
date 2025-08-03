@@ -1,3 +1,9 @@
 {
-  "hello": "Bonjour"
+  "welcome": "Bienvenue sur mon site web !",
+  "select_language": "Changer de langue",
+  "create_trip": "Créer mon voyage",
+  "about": "À propos",
+  "faq": "Foire aux questions",
+  "search": "Qu'as-tu en tête ?",
+  "subtitle": "La Colombie, vécue. Pas seulement visitée."
 }

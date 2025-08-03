@@ -1,3 +1,9 @@
 {
-  "hello": "Hello"
+  "welcome": "Welcome to my website!",
+  "select_language": "Change language",
+  "create_trip": "Create my trip",
+  "about": "About",
+  "faq": "FAQ",
+  "search": "What do you have in mind?",
+  "subtitle": "The Colombia, lived. Not just visited."
 }
