@@ -1,2 +1,16 @@
 @import "tailwindcss";
 @import "@nuxt/ui";
+
+@theme {
+ --general-font: "Figtree", sans-serif;
+ --title-font: "Poiret One", sans-serif;
+}
+
+* {
+  font-family: var(--general-font);
+}
+
+#tittle {
+  font-family: var(--title-font);
+  text-transform: uppercase;
+}
